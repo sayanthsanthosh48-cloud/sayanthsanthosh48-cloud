@@ -10,40 +10,6 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "Sayanth Santhosh"
-        self.location = "Kerala, India"
-        self.degree = "B.Tech in Information Technology"
-        self.role = "DevOps Engineer"
-
-        self.stack = {
-            "cloud": ["AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Route53, EBS)"],
-            "ci_cd": ["Jenkins", "GitHub Actions",],
-            "iac": ["Terraform", "Ansible"],
-            "containers": ["Docker", "Docker Hub"],
-            "monitoring": ["Prometheus", "Grafana", "CloudWatch"],
-            "os": ["Linux", "Ubuntu Server Administration"],
-            "scripting": ["Bash", "Python (basic automation)"]
-        }
-
-        self.currently_learning = ["Kubernetes", "Microsoft Azure", "Google Cloud Platform"]
-
-        self.fun_fact = "I once cut a deployment pipeline from 30 minutes to under 8."
-
-    def motto(self):
-        return "Automate everything that shouldn't need a human twice."
-
-
-me = DevOpsEngineer()
-print(me.motto())
-```
-
-<br clear="right"/>
-
 ## 🛠️ Tech Stack
 
 **Languages & Scripting**
